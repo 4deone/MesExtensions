@@ -1,0 +1,11 @@
+
+psquid:S00116"SRename this field "mAdd_btn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Îï„Úüÿÿÿÿ
+Ÿsquid:S1186Q"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ı‰†8îŒÎÃà-
+tsquid:S1450"XRemove the "mBack_btn" field and declare it as a local variable in the relevant methods.(¾›¦›øÿÿÿÿ
+ssquid:S1450"WRemove the "mAdd_btn" field and declare it as a local variable in the relevant methods.(Îï„Úüÿÿÿÿ
+—squid:S1186M"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(åÉ¢
+7squid:S3626Z"Remove this redundant jump.(Óú€Òşÿÿÿÿ
+squid:S1186H"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(®€Àºüÿÿÿÿ
+lsquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(“¿êî8ı²„îß-
+qsquid:S00116"TRename this field "mBack_btn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾›¦›øÿÿÿÿ
+—squid:S1186="€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‚µ˜

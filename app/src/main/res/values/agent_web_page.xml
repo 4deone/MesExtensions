@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="agent_web_page">
+        <item>CHOOSE WEB PAGE</item>
+        <item>s243.phingoocrm.com</item>
+        <item>vipcallcenter.dl.deskforce.com</item>
+    </string-array>
+</resources>

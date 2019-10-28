@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginRight="@dimen/vip_margin_2dp"
+    android:layout_marginLeft="@dimen/vip_margin_2dp"
+    android:layout_marginBottom="@dimen/vip_margin_1dp"
+    android:layout_marginStart="@dimen/vip_margin_1dp"
+    android:background="@color/color_item_agent"
+    android:orientation="horizontal">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tvLogin"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textColor="@color/color_noir"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="Hello World!"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tvExtension"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textColor="@color/color_noir"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="Hello World!"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight=".5"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tvCampagne"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textColor="@color/color_noir"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="Hello World!" />
+
+        <TextView
+            android:id="@+id/tvNom"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textColor="@color/color_noir"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="Hello World!" />
+
+        <TextView
+            android:id="@+id/tvPassword"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textColor="@color/color_noir"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="Hello World!" />
+
+        <TextView
+            android:id="@+id/tvWeb"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textColor="@color/color_noir"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="Hello World!" />
+
+        <TextView
+            android:id="@+id/tvDomain"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textColor="@color/color_noir"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="Hello World!" />
+
+    </LinearLayout>
+
+</LinearLayout>

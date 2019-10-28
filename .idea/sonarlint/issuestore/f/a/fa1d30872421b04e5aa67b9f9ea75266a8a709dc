@@ -1,0 +1,20 @@
+
+squid:S1186s"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‚µ˜8¡°íÂà-
+—squid:S1186>"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(åÉ¢
+Ÿsquid:S1186J"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(«û³±8–ÄÂà-
+squid:S1186g"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(åÉ¢8¥œëÂà-
+squid:S1186X"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‚µ˜8¥œëÂà-
+jsquid:UselessImportCheck"?Remove this unused import 'com.google.firebase.database.Query'.(ş¶Å®8Ê‹¯Âà-
+Ÿsquid:S1186C"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ı‰†8ôÖ½Âà-
+¤squid:S1186}"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(®€Àºüÿÿÿÿ8¡°íÂà-
+Ÿsquid:S1186‚"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(åÉ¢8¡°íÂà-
+]"squid:SwitchLastCaseIsDefaultCheckµ""Add a default case to this switch.(øå´¡ÿÿÿÿÿ8„ìñëß-
+¤squid:S1186b"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(®€Àºüÿÿÿÿ8Ã¤ìÂà-
+˜squid:S11864"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¿ùŸ´
+squid:S11869"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(®€Àºüÿÿÿÿ
+Ÿsquid:S1186]"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¿ùŸ´8¥œëÂà-
+Rsquid:S1905)"/Remove this unnecessary cast to "RecyclerView".(ñŠ¾¶ùÿÿÿÿ8éæíëß-
+Ÿsquid:S1186x"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¿ùŸ´8¡°íÂà-
+csquid:UselessImportCheck"8Remove this unused import 'android.app.DownloadManager'.(åşÓÎ8›§ïÁà-
+esquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(ßåš
+¤squid:S1186O"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ê¥¾àûÿÿÿÿ8–ÄÂà-

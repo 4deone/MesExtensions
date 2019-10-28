@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Mes Extensions</string>
+    <string name="agent_name">Nom</string>
+    <string name="agent_login">Login</string>
+    <string name="agent_password">Password</string>
+    <string name="agent_domain">Domain</string>
+    <string name="agent_campagne">Campagne</string>
+    <string name="agent_extension">Extension</string>
+    <string name="agent_web">Web</string>
+
+    <string name="add_btn">AJOUTER</string>
+    <string name="back_btn">ANNULER</string>
+    <string name="update_btn">UPDATE</string>
+    <string name="delete_btn">DELETE</string>
+
+    <string name="item_new_agent">NEW AGENT</string>
+    <string name="connexion">CONNEXION</string>
+    <string name="your_password">Your Password</string>
+    <string name="e_mail_address">E-Mail Address</string>
+    <string name="register">REGISTER</string>
+    <string name="annuler">ANNULER</string>
+    <string name="connexion_register">CONNEXION/REGISTER</string>
+    <string name="deconnexion">DECONNEXION</string>
+    <string name="password">PASSWORD</string>
+    <string name="new_password">NEW PASSWORD</string>
+    <string name="search_here">Search here ...</string>
+
+</resources>

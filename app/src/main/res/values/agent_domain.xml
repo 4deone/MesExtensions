@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="agent_domain">
+        <item>CHOOSE DOMAIN</item>
+        <item>s243s1.phingoocrm.com:7680</item>
+        <item>s243s2.phingoocrm.com:7680</item>
+        <item>s243s3.phingoocrm.com:7680</item>
+        <item>s243s4.phingoocrm.com:7680</item>
+        <item>s243s5.phingoocrm.com:7680</item>
+        <item>s243s6.phingoocrm.com:7680</item>
+        <item>s243s7.phingoocrm.com:7680</item>
+    </string-array>
+</resources>

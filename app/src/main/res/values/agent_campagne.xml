@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="agent_campagne">
+        <item>CHOOSE CAMPAGNE</item>
+        <item>VIP CALL ECO HABITAT</item>
+        <item>VIP CALL ECO MOBILE</item>
+        <item>VIP CALL ISO CALL</item>
+        <item>VIP CALL ORANGE</item>
+        <item>VIP CALL JEROME</item>
+        <item>VIP CALL CLEARNET</item>
+        <item>VIP CALL CERTISOBAT</item>
+        <item>VIP CALL MOBILE</item>
+        <item>VIP CALL QUIOSK</item>
+        <item>VIP CALL AVS</item>
+    </string-array>
+</resources>

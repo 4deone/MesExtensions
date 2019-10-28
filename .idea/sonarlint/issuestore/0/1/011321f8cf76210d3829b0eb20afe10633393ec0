@@ -1,0 +1,26 @@
+
+Ÿsquid:S1186r"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ı‰†8êú‹Ãà-
+}squid:S1450"ZRemove the "mDelete_btn" field and declare it as a local variable in the relevant methods.(ˆÒ÷æüÿÿÿÿ8Æ¥ÁËß-
+zsquid:S1450'"WRemove the "password" field and declare it as a local variable in the relevant methods.(œãë­úÿÿÿÿ8„ÀûËß-
+zsquid:S00116"VRename this field "mDelete_btn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÒ÷æüÿÿÿÿ8¥‡¼Ëß-
+vsquid:S1450$"XRemove the "extension" field and declare it as a local variable in the relevant methods.(ùÔ8ĞÇúËß-
+ squid:S1186”"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ı‰†8’—ŒÃà-
+usquid:S1450&"RRemove the "nom" field and declare it as a local variable in the relevant methods.(À³õåùÿÿÿÿ8¹ŸûËß-
+{squid:S1450"XRemove the "mBack_btn" field and declare it as a local variable in the relevant methods.(¾›¦›øÿÿÿÿ8Ê¿Ëß-
+squid:S1186]"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‚µ˜8¢ÌÜÌß-
+?squid:S3626"Remove this redundant jump.(Óú€Òşÿÿÿÿ8¢ÌÜÌß-
+zsquid:S00116"VRename this field "mUpdate_btn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ‹Ûèşÿÿÿÿ8¨Ø»Ëß-
+Ÿsquid:S1186b"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¿ùŸ´8¢ÌÜÌß-
+}squid:S1450"ZRemove the "mUpdate_btn" field and declare it as a local variable in the relevant methods.(İ‹Ûèşÿÿÿÿ8ÉØ—Ìß-
+nsquid:S00100£"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êŠêª8¢ÌÜÌß-
+squid:S1186m"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(åÉ¢8¢ÌÜÌß-
+psquid:S1450("RRemove the "web" field and declare it as a local variable in the relevant methods.(÷¸‚¨8—ÙûËß-
+ squid:S1186ƒ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¿ùŸ´8¢ÌÜÌß-
+usquid:S1450""WRemove the "campagne" field and declare it as a local variable in the relevant methods.(€˜†æ8õ¬ùËß-
+qsquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(¢ÛáÙşÿÿÿÿ8ªÅ„îß-
+rsquid:S1450%"TRemove the "login" field and declare it as a local variable in the relevant methods.(ÒûìÌ8“ûúËß-
+¥squid:S1186ˆ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(®€Àºüÿÿÿÿ8¢ÌÜÌß-
+xsquid:S00116"TRename this field "mBack_btn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾›¦›øÿÿÿÿ8Ã™ºËß-
+squid:S1186~"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‚µ˜8¢ÌÜÌß-
+?squid:S3626"Remove this redundant jump.(Óú€Òşÿÿÿÿ8¢ÌÜÌß-
+xsquid:S1450#"URemove the "domain" field and declare it as a local variable in the relevant methods.(€í¼ üÿÿÿÿ8ÑÈùËß-

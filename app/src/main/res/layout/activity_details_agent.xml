@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".NewAgentActivity">
+
+    <Spinner
+        android:id="@+id/spCampagne"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/vip_margin"
+        android:entries="@array/agent_campagne" />
+
+    <Spinner
+        android:id="@+id/spDomain"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/vip_margin"
+        android:entries="@array/agent_domain" />
+
+    <Spinner
+        android:id="@+id/spWeb"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/vip_margin"
+        android:entries="@array/agent_web_page" />
+
+    <EditText
+        android:id="@+id/tvExtension"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/vip_margin"
+        android:layout_margin="@dimen/vip_margin"
+        android:ems="10"
+        android:inputType="number"
+        android:hint="@string/agent_extension"
+        tools:ignore="Autofill" />
+
+    <EditText
+        android:id="@+id/tvLogin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/vip_margin"
+        android:layout_margin="@dimen/vip_margin"
+        android:ems="10"
+        android:inputType="textPersonName|textCapCharacters"
+        android:hint="@string/agent_login"
+        tools:ignore="Autofill" />
+
+    <EditText
+        android:id="@+id/tvNomAgent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/vip_margin"
+        android:layout_margin="@dimen/vip_margin"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="@string/agent_name"
+        tools:ignore="Autofill" />
+
+    <EditText
+        android:id="@+id/tvPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/vip_margin"
+        android:layout_margin="@dimen/vip_margin"
+        android:ems="10"
+        android:inputType="text"
+        android:hint="@string/agent_password"
+        tools:ignore="Autofill" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="horizontal">
+        <TextView
+            android:id="@+id/tvAddedby"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_margin="@dimen/vip_margin"
+            android:textSize="10dp"
+            android:text="Added by" />
+
+        <TextView
+            android:id="@+id/tvUpdatedBy"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_margin="@dimen/vip_margin"
+            android:textSize="10dp"
+            android:text="Updated by" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/update_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_margin="@dimen/vip_margin"
+            android:text="@string/update_btn" />
+
+        <Button
+            android:id="@+id/delete_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_margin="@dimen/vip_margin"
+            android:text="@string/delete_btn" />
+
+        <Button
+            android:id="@+id/back_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_margin="@dimen/vip_margin"
+            android:text="@string/back_btn" />
+
+    </LinearLayout>
+
+</LinearLayout>

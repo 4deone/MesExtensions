@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "877132832142",
+    "firebase_url": "https://vip-call-e405a.firebaseio.com",
+    "project_id": "vip-call-e405a",
+    "storage_bucket": "vip-call-e405a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877132832142:android:c7c280e2f94b37515a58df",
+        "android_client_info": {
+          "package_name": "cm.deone.mesextensions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877132832142-05f0eq9o40rm7l0p7cki70otfl16v11b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cm.deone.mesextensions",
+            "certificate_hash": "142065c1ac8e1af584e97dd6c8ca74fc7e52a83c"
+          }
+        },
+        {
+          "client_id": "877132832142-ed009lg8jfc9sbh0vqv8nj13acf1lfbd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoTZSOV7wQC8MP8bFGnYOR4FOws2_7Y4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877132832142-ed009lg8jfc9sbh0vqv8nj13acf1lfbd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

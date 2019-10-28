@@ -1,0 +1,6 @@
+
+esquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(‰Š£
+>squid:S3626<"Remove this redundant jump.(Óú€Òşÿÿÿÿ8·í»ëß-
+|squid:S00116"XRename this field "mProgress_bar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù¿úÿÿÿÿ8Û×íêß-
+dsquid:UselessImportCheck"4Remove this unused import 'android.widget.TextView'.(„Ë‚ˆÿÿÿÿÿ8Ò«Üêß-
+>squid:S3626_"Remove this redundant jump.(Óú€Òşÿÿÿÿ8ÄşÓëß-

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/new_agent"
+        android:title="@string/item_new_agent" />
+    <item
+        android:id="@+id/sign_in"
+        android:title="@string/connexion_register" />
+    <item
+        android:id="@+id/password"
+        android:title="@string/password" />
+    <item
+        android:id="@+id/sign_out"
+        android:title="@string/deconnexion" />
+</menu>

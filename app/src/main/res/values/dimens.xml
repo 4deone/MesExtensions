@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="vip_margin">8dp</dimen>
+    <dimen name="vip_margin_2dp">2dp</dimen>
+    <dimen name="vip_margin_1dp">1dp</dimen>
+    <dimen name="vip_size_text">20sp</dimen>
+</resources>
